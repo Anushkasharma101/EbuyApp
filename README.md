@@ -1,16 +1,4 @@
-# ebuy
+# Ebuy
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Ecommerce Flutter project.
+This is an E-commerce project which includes all the basic to advanced functionings like searching the product,Rating and providing feedback,adding to cart. We can provide the address details,can track our order through tracking method and payment should be done through gapy or applepay.
